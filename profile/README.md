@@ -6,7 +6,8 @@ ZIO is a type-safe functional effect in Scala for asynchronous and concurrent pr
 
 ZIO has a growing ecosystem of libraries and tools for building next-generation reactive applications on JVM, Scala.js, and Scala Native. Here is the overview of its ecosystem:
 
-1. Official ZIO libraries are hosted in the [ZIO organization](https://github.com/zio/) on Github and maintained by core contributors to ZIO.
+1. Official ZIO libraries are hosted in the [ZIO organization](https://github.com/zio/) on Github and maintained by core contributors to ZIO. We have a [quick overview](http://zio.dev/ecosystem/officials/) for these libraries on the ZIO website.
+
 2. There is also a growing ecosystem of community-maintained libraries outside the ZIO organization. These are [listed](https://zio.dev/ecosystem/community/) on the ecosystem section of the ZIO website.
 
 ## Ecosystem Tracker
