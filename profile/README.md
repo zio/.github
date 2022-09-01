@@ -1,3 +1,5 @@
+![ZIO Logo](./ZIO.png)
+
 # ZIO
 
 ZIO is a type-safe functional effect in Scala for asynchronous and concurrent programming. To learn more about ZIO, visit [zio.dev](zio.dev).
